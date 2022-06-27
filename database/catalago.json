@@ -1,0 +1,21 @@
+[
+    {
+      "codigo":1,
+      "anoDelancamento":2022,
+      "titulo":"Top Gun",
+      "atores":["Tom Cruiser","Jennifer Connelly"],
+      "duracao": 131,
+      "emCartaz":true
+    },
+    
+        {   
+            "codigo":2,
+            "anoDelancamento":2009,
+            "titulo":"Avatar",
+            "atores":["Zoe Saldaman","Sam Worthington","Michelle Rodrigurz","Sigourney Weaver"],
+            "duracao": 160,
+            "emCartaz":false
+        }
+    ]
+    
+    
